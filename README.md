@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on something great!
+- 👯 I’m looking to collaborate on my interest with different technologies such as Terraform, Ansible, and Google Cloud.
+- 🌱 I’m currently learning new things like NodeJs and DevOps skills from Cloud Resume Challenge.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ANYTHING?
+- 📫 How to reach me: dwayne@dcgsvcs.com  
+
 <!--
 **dcgservice1/dcgservice1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
